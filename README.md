@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Twitter](https://x.com/poryaghafary0?s=21)]
+
 [![Instagram](https://www.instagram.com/porya__13?igsh=MTRodWZ1M3ExbjNo&utm_source=qr)]
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/poryaghafary0?s=21)
